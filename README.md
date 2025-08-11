@@ -1,7 +1,7 @@
 # Adventure-Works-Report
 
 
-### 1. Project
+### 1. Project 
 
 An executive Power BI dashboard solution developed to explore sales, product orders, returns, and revenue trends across categories and regions. Built using Microsoft's Adventure Works dataset, this dashboard is designed for quick, visual insights into business performance.
 
