@@ -10,7 +10,7 @@ An executive Power BI dashboard solution developed to explore sales, product ord
 The Adventure Works Dashboard is an interactive report developed to track total revenue, sales orders, product return rates, and profitability across product types and geographies. It provides business managers with a consolidated view of KPIs and product-level insights for data-driven decisions.
  
 
-### 3. Tech Stack
+### 3. Tech Stack 
  
 This project was developed using the following tools and technologies:
 
